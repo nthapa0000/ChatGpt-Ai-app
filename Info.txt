@@ -1,0 +1,1 @@
+Hello Lets begin our project , In this project we will make an application which will use open ai api 
